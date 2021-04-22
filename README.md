@@ -1,2 +1,2 @@
 # DataStructures-JavaScript
-This is an examples using Data Structures in JavaScript
+These are some examples of Data Structures in JavaScript
